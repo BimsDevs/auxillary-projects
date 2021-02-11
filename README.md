@@ -1,2 +1,0 @@
-# auxillary-projects
-Shell Scripting
